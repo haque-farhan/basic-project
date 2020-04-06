@@ -101,3 +101,9 @@
   font-weight: 400;
   color: #000000 !important;
 }
+
+.description {
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+}
