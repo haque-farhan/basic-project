@@ -107,3 +107,51 @@
   color: #000000;
   font-size: 14px;
 }
+
+.summarySection {
+  margin-top: 5rem;
+}
+
+.summaryFixedBanner {
+  background-image: url("../image/bg.jpg");
+  min-height: 350px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.summeryBannerOverlay {
+  position: absolute;
+  min-height: 500px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.countNumber {
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.countTitle {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.countSection {
+  margin-top: 15%;
+}
+
+.cardTitle {
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+
+.cardSubTitle {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 400;
+}

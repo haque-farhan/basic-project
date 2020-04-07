@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import WebLogo from "../../../asset/image/icon/web.svg";
-import MobileLogo from "../../../asset/image/icon/mobile.svg";
-import GraphicsLogo from "../../../asset/image/icon/graphics.svg";
+import WebLogo from "../../asset/image/icon/web.svg";
+import MobileLogo from "../../asset/image/icon/mobile.svg";
+import GraphicsLogo from "../../asset/image/icon/graphics.svg";
 
 class Services extends Component {
   render() {
