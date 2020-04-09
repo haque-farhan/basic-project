@@ -123,7 +123,7 @@
 
 .summeryBannerOverlay {
   position: absolute;
-  min-height: 500px;
+  min-height: 350px;
   width: 100%;
   background: rgba(0, 0, 0, 0.7);
 }
@@ -141,7 +141,7 @@
 }
 
 .countSection {
-  margin-top: 15%;
+  margin-top: 16%;
 }
 
 .cardTitle {
@@ -154,4 +154,91 @@
   color: #000000;
   font-size: 14px;
   font-weight: 400;
+}
+
+.iconBullet {
+  color: #0073e6;
+  font-size: 16px;
+}
+
+.workCard {
+  margin-top: 14%;
+  padding: 10px 10px 10px 10px;
+  border-radius: 2px;
+}
+
+.projectCard {
+  border-radius: 2px;
+  border: none !important;
+  margin: 2px 2px 2px 2px;
+  box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+}
+.projectCard:hover {
+  box-shadow: 0 0 8px 0 rgba(0, 115, 230, 0.2);
+}
+
+.projectCardTitle {
+  font-family: "Montserreat", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.projectCardDes {
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.courseImg {
+  width: 100%;
+}
+.courseTitle {
+  font-family: "Montserreat", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+.courseDes {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.courseDetails {
+  color: #0073e6;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+.courseDetails:hover {
+  text-decoration: none;
+}
+.videoCard {
+  box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+  padding: 6rem 3rem 6rem 3rem;
+  background-color: #ffffff;
+  margin: 50px auto;
+}
+.playBtn {
+  color: #0073e6;
+  font-size: 48px;
+  cursor: pointer;
+}
+.videoTitle {
+  color: #0073e6;
+  font-family: "Montserreat", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+}
+.videoDes {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.circleImg {
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #0073e6;
+  border-radius: 50%;
 }

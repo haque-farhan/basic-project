@@ -4,6 +4,7 @@ import Services from "./components/Services/Services";
 import TopNavigaton from "./components/TopNavigation/TopNavigaton";
 import Analysis from "./components/Analysis/Analysis";
 import Summary from "./components/Summary/Summary";
+import ClientReview from "./components/ClientReview/ClientReview";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Services />
       <Analysis />
       <Summary />
+      <ClientReview />
     </div>
   );
 }
