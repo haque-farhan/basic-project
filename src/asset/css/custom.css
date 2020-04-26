@@ -242,3 +242,26 @@
   border: 1px solid #0073e6;
   border-radius: 50%;
 }
+
+.videoCard {
+  box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+  padding: 6rem 3rem 6rem 3rem;
+  background-color: #ffffff;
+  margin: 50px auto;
+}
+.playBtn {
+  color: #0073e6;
+  font-size: 48px;
+  cursor: pointer;
+}
+.videoTitle {
+  color: #0073e6;
+  font-family: "Montserreat", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+}
+.videoDes {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
