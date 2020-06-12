@@ -17,7 +17,6 @@ class TopNavigaton extends Component {
     navbarBack: "navBackground",
     navBarItem: "navItem",
   };
-
   onScroll = () => {
     if (window.scrollY > 100) {
       this.setState({
